@@ -1,0 +1,23 @@
+{
+    "items": [{
+            "img": "img/euro.png",
+            "description": "The euro (symbol: €; code: EUR) is the official currency of 19 of the 27 member states of the European Union."
+        },
+        {
+            "img": "img/usd.jpg",
+            "description": "The United States dollar (symbol: $; code: USD; also abbreviated US$ or U.S. Dollar, to distinguish it from other dollar-denominated currencies"
+        },
+        {
+            "img": "img/bitcoin.png",
+            "description": "Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin.org."
+        },
+        {
+            "img": "img/ethereum.png",
+            "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality."
+        },
+        {
+            "img": "img/dogecoin.jpg",
+            "description": "Dogecoin features the face of the Shiba Inu dog from the 'Doge' meme as its logo and namesake."
+        }
+    ]
+}
